@@ -1,6 +1,6 @@
 # TUBE: Embedding Behavior Outcomes for Predicting Success
 
-**Description: This repository contains the C++ implementation of the TUBE model proposed in paper *TUBE: Embedding Behavior Outcomes for Predicting Success* accetped by KDD 2019**
+**Description: This repository contains the C++ implementation of the TUBE model proposed in paper *TUBE: Embedding Behavior Outcomes for Predicting Success* accepted by KDD 2019**
 
 ## Usage
 ### 1. Make
