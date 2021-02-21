@@ -1,6 +1,6 @@
 # TUBE: Embedding Behavior Outcomes for Predicting Success
 
-**Description: This repository contains the C++ implementation of the TUBE model proposed in paper *TUBE: Embedding Behavior Outcomes for Predicting Success* accepted by KDD 2019**
+**Description: This repository contains the C++ implementation of the TUBE model proposed in paper [TUBE: Embedding Behavior Outcomes for Predicting Success](http://www.meng-jiang.com/pubs/tube-kdd19/tube-kdd19-paper.pdf) accepted by KDD 2019**
 
 ## Usage
 ### 1. Make
@@ -40,4 +40,13 @@ Other datasets can be found at:
 Other examples are provided in the `./demo.sh` file.
 
 ## Miscellaneous
-If you find this code package to be useful, please consider cite the original paper *TUBE: Embedding Behavior Outcomes for Predicting Success*.
+If you find this code package to be useful, please consider cite us:
+```
+@inproceedings{wang2019tube,
+  title={Tube: Embedding behavior outcomes for predicting success},
+  author={Wang, Daheng and Jiang, Tianwen and Chawla, Nitesh V and Jiang, Meng},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={1682--1690},
+  year={2019}
+}
+```
